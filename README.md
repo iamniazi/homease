@@ -1,4 +1,4 @@
-# myhome_app
+# homeEase_APP
 
 A new Flutter application.
 
